@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>伊涅芙的垃圾站</title><link>https://dongsxs.github.io/log2025</link><description>欢迎来到记录零碎记忆的地方</description><copyright>伊涅芙的垃圾站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dongsxs.github.io/log2025</link></image><lastBuildDate>Sun, 19 Oct 2025 08:29:13 +0000</lastBuildDate><managingEditor>伊涅芙的垃圾站</managingEditor><ttl>60</ttl><webMaster>伊涅芙的垃圾站</webMaster><item><title>WSL during postgrad</title><link>https://dongsxs.github.io/log2025/post/WSL%20during%20postgrad.html</link><description>## Through Windows VS Code
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>伊涅芙的垃圾站</title><link>https://dongsxs.github.io/log2025</link><description>欢迎来到记录零碎记忆的地方</description><copyright>伊涅芙的垃圾站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dongsxs.github.io/log2025</link></image><lastBuildDate>Sun, 19 Oct 2025 08:31:09 +0000</lastBuildDate><managingEditor>伊涅芙的垃圾站</managingEditor><ttl>60</ttl><webMaster>伊涅芙的垃圾站</webMaster><item><title>WSL during postgrad</title><link>https://dongsxs.github.io/log2025/post/WSL%20during%20postgrad.html</link><description>## Through Windows VS Code
 
 Open the code in Windows and click the small computer icon, then you can retrieve the projects under the Linux environment by clicking “connect in a new window”.
 
@@ -28,10 +28,10 @@ https://blog.csdn.net/qq_42951560/article/details/124058529
 这个服务还等着连呢，但是 IP 端口已经变了
 。</description><guid isPermaLink="true">https://dongsxs.github.io/log2025/post/WSL%20during%20postgrad.html</guid><pubDate>Sun, 19 Oct 2025 07:36:26 +0000</pubDate></item><item><title>模型微调</title><link>https://dongsxs.github.io/log2025/post/mo-xing-wei-diao.html</link><description>
 # demo
-`git clone https://github.com/hiyouga/LLaMA-Factory \n
-cd LLaMA-Factory \n
-pip install -e '.[torch,metrics]'
-`
+`git clone https://github.com/hiyouga/LLaMA-Factory `
+`cd LLaMA-Factory `
+`pip install -e '.[torch,metrics]'`
+
 
 
 # LLaMA Factory
