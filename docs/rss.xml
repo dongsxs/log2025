@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>伊涅芙的垃圾站</title><link>https://dongsxs.github.io/log2025</link><description>欢迎来到记录零碎记忆的地方</description><copyright>伊涅芙的垃圾站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dongsxs.github.io/log2025</link></image><lastBuildDate>Sun, 19 Oct 2025 07:37:05 +0000</lastBuildDate><managingEditor>伊涅芙的垃圾站</managingEditor><ttl>60</ttl><webMaster>伊涅芙的垃圾站</webMaster><item><title>Logging into the WSL during postgrad</title><link>https://dongsxs.github.io/log2025/post/Logging%20into%20the%20WSL%20during%20postgrad.html</link><description>## Through Windows VS Code
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>伊涅芙的垃圾站</title><link>https://dongsxs.github.io/log2025</link><description>欢迎来到记录零碎记忆的地方</description><copyright>伊涅芙的垃圾站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dongsxs.github.io/log2025</link></image><lastBuildDate>Sun, 19 Oct 2025 07:43:10 +0000</lastBuildDate><managingEditor>伊涅芙的垃圾站</managingEditor><ttl>60</ttl><webMaster>伊涅芙的垃圾站</webMaster><item><title>WSL during postgrad</title><link>https://dongsxs.github.io/log2025/post/WSL%20during%20postgrad.html</link><description>## Through Windows VS Code
 
 Open the code in Windows and click the small computer icon, then you can retrieve the projects under the Linux environment by clicking “connect in a new window”.
 
@@ -26,7 +26,7 @@ https://learn.microsoft.com/zh-cn/windows/wsl/tutorials/wsl-vscode
 https://blog.csdn.net/qq_42951560/article/details/124058529
 有时候连不上是因为本地的服务没关
 这个服务还等着连呢，但是 IP 端口已经变了
-。</description><guid isPermaLink="true">https://dongsxs.github.io/log2025/post/Logging%20into%20the%20WSL%20during%20postgrad.html</guid><pubDate>Sun, 19 Oct 2025 07:36:26 +0000</pubDate></item><item><title>模型微调</title><link>https://dongsxs.github.io/log2025/post/mo-xing-wei-diao.html</link><description>
+。</description><guid isPermaLink="true">https://dongsxs.github.io/log2025/post/WSL%20during%20postgrad.html</guid><pubDate>Sun, 19 Oct 2025 07:36:26 +0000</pubDate></item><item><title>模型微调</title><link>https://dongsxs.github.io/log2025/post/mo-xing-wei-diao.html</link><description>
 # PEFT（Parameter-Efficient Fine-Tuning）
 
 
