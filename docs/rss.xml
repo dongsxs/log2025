@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>伊涅芙的垃圾站</title><link>https://dongsxs.github.io/log2025</link><description>欢迎来到记录零碎记忆的地方</description><copyright>伊涅芙的垃圾站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dongsxs.github.io/log2025</link></image><lastBuildDate>Tue, 21 Oct 2025 14:15:13 +0000</lastBuildDate><managingEditor>伊涅芙的垃圾站</managingEditor><ttl>60</ttl><webMaster>伊涅芙的垃圾站</webMaster><item><title>preference tool</title><link>https://dongsxs.github.io/log2025/post/preference%20tool.html</link><description>## collect analyzer dataset
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>伊涅芙的垃圾站</title><link>https://dongsxs.github.io/log2025</link><description>欢迎来到记录零碎记忆的地方</description><copyright>伊涅芙的垃圾站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dongsxs.github.io/log2025</link></image><lastBuildDate>Tue, 21 Oct 2025 14:17:10 +0000</lastBuildDate><managingEditor>伊涅芙的垃圾站</managingEditor><ttl>60</ttl><webMaster>伊涅芙的垃圾站</webMaster><item><title>美国历史</title><link>https://dongsxs.github.io/log2025/post/mei-guo-li-shi.html</link><description>## 冷战
+
+
+
+## 黄金
+
+
+
+## 石油。</description><guid isPermaLink="true">https://dongsxs.github.io/log2025/post/mei-guo-li-shi.html</guid><pubDate>Tue, 21 Oct 2025 14:16:32 +0000</pubDate></item><item><title>preference tool</title><link>https://dongsxs.github.io/log2025/post/preference%20tool.html</link><description>## collect analyzer dataset
 
 ```
 collect uvlog2 -sv test.sv -debug all                    # use collect tool
