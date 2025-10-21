@@ -2,7 +2,7 @@
 
 ```
 collect uvlog2 -sv test.sv -debug all                    # use collect tool
-valgrind --leak-check=full  ./uvsim >& valgrind.log    # use valgrind tool
+valgrind --leak-check=full  ./uvsim >& memLeak.log    # use valgrind tool
 valgrind --tool=massif  ./uvsim >& memMalloc.log   # use valgrind tool
 ```
 
