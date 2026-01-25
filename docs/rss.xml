@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>伊涅芙的垃圾站</title><link>https://dongsxs.github.io/log2025</link><description>欢迎来到记录零碎记忆的地方</description><copyright>伊涅芙的垃圾站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dongsxs.github.io/log2025</link></image><lastBuildDate>Sun, 25 Jan 2026 06:51:41 +0000</lastBuildDate><managingEditor>伊涅芙的垃圾站</managingEditor><ttl>60</ttl><webMaster>伊涅芙的垃圾站</webMaster><item><title>Finance</title><link>https://dongsxs.github.io/log2025/post/Finance.html</link><description>*** 做知识和判断的创造者，不嚼别人喂的馍 ***
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>伊涅芙的垃圾站</title><link>https://dongsxs.github.io/log2025</link><description>欢迎来到记录零碎记忆的地方</description><copyright>伊涅芙的垃圾站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dongsxs.github.io/log2025</link></image><lastBuildDate>Sun, 25 Jan 2026 07:14:48 +0000</lastBuildDate><managingEditor>伊涅芙的垃圾站</managingEditor><ttl>60</ttl><webMaster>伊涅芙的垃圾站</webMaster><item><title>Finance</title><link>https://dongsxs.github.io/log2025/post/Finance.html</link><description>*** 做知识和判断的创造者，不嚼别人喂的馍 ***
 
 ### 如何看上市企业的财务报表？
 
@@ -68,7 +68,5 @@ pip install -e '.[torch,metrics]'
 
 政治本质上是对稀缺资源的分配
 
-### 定都
-
-在表决前，沈雁冰汇报了第六小组的研究讨论意见，提出了定都北平的理由：“国民党反动派过去定都南京，主要原因是在政治上和经济上，便于依赖帝国主义，因为南京靠近上海，而上海是帝国主义和买办资产阶级剥削中国人民的中心城市。</description><guid isPermaLink="true">https://dongsxs.github.io/log2025/post/zhong-guo-li-shi.html</guid><pubDate>Sat, 11 Oct 2025 16:52:30 +0000</pubDate></item><item><title>Hello Gmeek!</title><link>https://dongsxs.github.io/log2025/post/Hello%20Gmeek%21.html</link><description>It's my second year at my first job.
+国家的主权融合在制权里面，在部分官吏和行政者手中。</description><guid isPermaLink="true">https://dongsxs.github.io/log2025/post/zhong-guo-li-shi.html</guid><pubDate>Sat, 11 Oct 2025 16:52:30 +0000</pubDate></item><item><title>Hello Gmeek!</title><link>https://dongsxs.github.io/log2025/post/Hello%20Gmeek%21.html</link><description>It's my second year at my first job.
 I want to document some aspects of my life.。</description><guid isPermaLink="true">https://dongsxs.github.io/log2025/post/Hello%20Gmeek%21.html</guid><pubDate>Sat, 11 Oct 2025 16:13:24 +0000</pubDate></item></channel></rss>
